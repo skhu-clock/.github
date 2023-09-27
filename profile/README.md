@@ -7,18 +7,28 @@
 <p>성공회대생의 편리한 생활을 위한 종합선물세트</p>
 </div>
 
+<br/><br/><br/><br/>
+
+## Getting Started
+
 <div align="center">
-  <a href="#skills">Skills</a> •
-  <a href="#getting-started">Getting Started</a> •
-  <a href="#developers">Developers</a> •  
-  <a href="#frontend">FrontEnd</a> •
-  <a href="#backend">BackEnd</a> •
-  <a href="#youtube">Youtube</a>
+
+<h3>
+
+[`https://skhu-clock-front.vercel.app/`](https://skhu-clock-front.vercel.app/)
+
+</h3>
+<hr/>
 </div>
 
-<br/><br/><br/><br/><br/>
 
-## Skills
+<details>
+
+<summary>
+<h2>
+  Skills
+</h2>
+</summary>
 <div align="left">
 
 <h3>FrontEnd</h3>
@@ -43,23 +53,16 @@
 
 **SKHU-CLOCK**은 위 개발 스택을 사용하여 개발되었습니다.
 
-<br/>
+</details>
 
 
-## Getting Started
+<details>
 
-<div align="center">
-
-<h3>
-
-[`https://skhu-clock-front.vercel.app/`](https://skhu-clock-front.vercel.app/)
-
-</h3>
-
-</div>
-
-
-## Developers
+<summary>
+<h2>
+  Developers
+</h2>
+</summary>
 
 ### FrontEnd
 
@@ -68,21 +71,20 @@
 |                 [김효중](https://github.com/hanseulhee)                           |                     [이진우](https://github.com/yeeZinu)                         |
   
 
-### FrontEnd
+### BackEnd
 
 | <img src="https://avatars.githubusercontent.com/u/80027082?v=4" width="150px" /> | <img src="https://avatars.githubusercontent.com/u/80957486?v=4" width="150px" /> | <img src="https://avatars.githubusercontent.com/u/80959635?v=4" width="150px" />
 | :------------------------------------------------------------------------------: | :------------------------------------------------------------------------------: | :------------------------------------------------------------------------------: |
 |                 [김수연](https://github.com/tndusy27)                             |                      [김자경](https://github.com/jkkj0414)                       |                 [서명진](https://github.com/myoungjinseo)                 |
 
+</details>
 
-## FrontEnd
-해당 프로젝트의 세부사항은 [다음](https://github.com/skhu-clock/skhu-clock-front) 에서 보실 수 있습니다.
+  <br/>
 
-## BackEnd
-
-해당 프로젝트의 세부사항은 [다음](https://github.com/skhu-clock/skhu-clock-back) 에서 보실 수 있습니다.
-
-
+  <hr/>
+  
+  <br/>
+  
 ## Youtube
 
 1분 내의 SKHU-CLOCK 소개 영상을 보실 수 있습니다.
